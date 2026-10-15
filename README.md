@@ -35,7 +35,7 @@ Email: 6730302321@student.chula.ac.th
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![](https://github.com/6730144521/Git-Exercise/blob/Animation/GITGIF.gif?raw=true)
 
 💬 4. Quote
 
