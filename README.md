@@ -31,8 +31,7 @@ Name: Punjapol Chaimongkoltaworn
 Email: 6730302321@student.chula.ac.th
 
 🖼️ 2. Picture
-
-*** Place Quote.* here *** 
+![](https://github.com/6730144521/Git-Exercise/blob/Picture/Quote.png?raw=true)
 
 🎞️ 3. Animation
 
@@ -40,6 +39,6 @@ Email: 6730302321@student.chula.ac.th
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+Revision control gives us the confidence to move forward because we can always trace our changes and return what worked.
 
 🎬 5. Video Lecture
