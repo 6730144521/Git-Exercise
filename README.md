@@ -24,8 +24,11 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Nawat Chindavijak
+Email: 6730144521@student.chula.ac.th
+
+Name: Punjapol Chaimongkoltaworn
+Email: 6730302321@student.chula.ac.th
 
 🖼️ 2. Picture
 
